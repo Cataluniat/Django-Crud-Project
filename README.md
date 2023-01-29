@@ -45,4 +45,4 @@ $ exit
 This project does not include a Dockerfile.
 
 Same project with a Dockerfile:
-https://github.com/Cataluniat/djangoapp-docker
+https://github.com/Cataluniat/django-crud-docker
