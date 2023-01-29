@@ -12,7 +12,7 @@ $ sudo pip3 install pipenv
 
 2 Clone the repository:
 ```sh 
-$ git clone https://github.com/cataluniat/djangoproject
+$ git clone https://github.com/cataluniat/django-crud-project
 $ cd djangoproject
 ```
 3 Inside ./djangoproject/
