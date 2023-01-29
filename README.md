@@ -30,7 +30,7 @@ $ sudo pipenv shell
 ```
 5 Runserver
 ```sh 
-$ cd django-crud-project/blog-post
+$ cd app
 $ python manage.py runserver  
 ```
 or custom port
