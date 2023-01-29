@@ -15,7 +15,7 @@ $ sudo pip3 install pipenv
 $ git clone https://github.com/cataluniat/django-crud-project
 $ cd django-crud-project
 ```
-3 Inside ./django-crud-project/
+3 Inside ./djangoproject/
 
 ```sh 
 $ sudo pipenv --python /usr/bin/python3
